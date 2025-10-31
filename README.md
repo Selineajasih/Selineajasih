@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello World! I'm Jesseline Roniar
 
 <!--
 **Selineajasih/Selineajasih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **SMKN1CIOMAS**
+- 🌱 I’m currently learning ***Elixir***
+- 💬 Ask me about **GamingCode**
+- 😄 Pronouns: **Jess**
+- ⚡ Fun fact: **I Love Gaming and Programming**
+![Kuromi](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2IxNWo0anA2dWR6YnZvdDh5cTUxNWNqY2F2bWg1bGptdDdhZDBibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jwzNDFOjiUBPEUJC6G/giphy.gif)
